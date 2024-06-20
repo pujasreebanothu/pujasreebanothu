@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Banothu Pujasree!</h1>
 
-<!--
-**pujasreebanothu/pujasreebanothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated **Full Stack Developer** specializing in dynamic web applications. With a robust expertise in both **front-end technologies**, I excel at creating seamless, user-centric experiences. My passion for **innovation** and **problem-solving** drives me to stay at the forefront of industry trends, ensuring the delivery of **high-quality**, scalable solutions that meet modern digital needs.
+## 
+👩‍💻 I'm actively working on - **Javascript, HTML, CSS, Bootstrap**
 
-Here are some ideas to get you started:
+🧠 I'm currently deepening my knowledge on - **React.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Ping me - banothpujasree24@gmail.com
+
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
