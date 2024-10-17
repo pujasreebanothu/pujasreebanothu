@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Banothu Pujasree!</h1>
 
-I am a dedicated **Full Stack Developer** specializing in dynamic web applications. With a robust expertise in both **front-end technologies**, I excel at creating seamless, user-centric experiences. My passion for **innovation** and **problem-solving** drives me to stay at the forefront of industry trends, ensuring the delivery of **high-quality**, scalable solutions that meet modern digital needs.
+I am a dedicated **Full Stack Developer** specializing in dynamic web applications. With a robust expertise in **front-end technologies**, I excel at creating seamless, user-centric experiences. My passion for **innovation** and **problem-solving** drives me to stay at the forefront of industry trends, ensuring the delivery of **high-quality**, scalable solutions that meet modern digital needs.
 ## 
 👩‍💻 I'm actively working on - **Javascript, HTML, CSS, Bootstrap**
 
